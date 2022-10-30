@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @lathbridge
 - BSc computer science
-- 👀 I’m interested in react js and node js
+- 👀 I’m interested MERN stack
+- php & C++
 - 🌱 I’m currently learning penetration testing and python
 - 💞️ I’m looking to collaborate on projects thats can challenge me to learn.
 - 📫 How to reach me, on linkedin @Lathbridge emmanuel oduro
