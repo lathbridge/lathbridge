@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @lathbridge
 - BSc computer science
 - 👀 I’m a MERN stack dev
+- Backend Stack: Django (python), Node js.
 - php & C++
-- 🌱 I’m currently on penetration testing and python
-- 💞️ I’m looking to collaborate on projects thats can challenge me to learn.
+- 🌱 Cybersecurity and pentesting enthusiast.
+- 💞️ Have a project in mind, reach out to me!
 - 📫 How to reach me, on linkedin [@Lathbridge emmanuel oduro](https://www.linkedin.com/in/emmanuel-oduro-lathbridge-8b41b517a/)
 
 <!---
